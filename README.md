@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working with C# and anything related with .Net 
-💬 Ask me about Javascript, Python, C# and .Net
-📫 How to reach me: halittiryaki1461@gmail.com
+🔭 I’m currently working with C# and anything related with .Net <br>
+💬 Ask me about Javascript, Python, C# and .Net <br>
+📫 How to reach me: halittiryaki1461@gmail.com <br>
 
 <!--
 **halittiryakicom/halittiryakicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
