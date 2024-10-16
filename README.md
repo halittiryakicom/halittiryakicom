@@ -3,6 +3,10 @@
 💬 Ask me about Javascript, Python, C# and .Net <br>
 📫 How to reach me: halittiryaki1461@gmail.com <br>
 
+## Connect with me 👋
+[https://www.linkedin.com/in/halittiryaki/] ![image](https://github.com/user-attachments/assets/c45b509b-91a0-44ea-9d4f-4e80d5d86a1b)
+
+
 <!--
 **halittiryakicom/halittiryakicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
