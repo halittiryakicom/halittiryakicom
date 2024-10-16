@@ -4,7 +4,7 @@
 📫 How to reach me: halittiryaki1461@gmail.com <br>
 
 ## Connect with me 👋
-[https://www.linkedin.com/in/halittiryaki/] Linkedin
+[Linkedin] (https://www.linkedin.com/in/halittiryaki/)
 
 
 
