@@ -4,11 +4,12 @@
 
 ### Python Developer • Automation Engineer • Desktop Application Developer
 
-### 🚀 Building software that saves time through automation.
+> **Building software that saves businesses time through automation.**
 
 <p>
+
 <a href="https://halittiryaki.com">
-<img src="https://img.shields.io/badge/🌐%20Website-halittiryaki.com-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-halittiryaki.com-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.upwork.com/freelancers/~01ec55433d09b8731c">
@@ -19,33 +20,45 @@
 <img src="https://img.shields.io/github/followers/halittiryakicom?style=for-the-badge"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=halittiryakicom&style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-# 💡 About Me
+# 🚀 Available for Freelance Projects
 
-I'm a **Python Developer** passionate about building software that automates repetitive work and improves business productivity.
+✔ Python Automation
 
-My focus is developing reliable desktop applications, automation tools and data processing solutions using modern software engineering practices.
+✔ Excel Automation
 
-### What I build
+✔ Desktop Applications
 
-- 🤖 Business Automation
-- 📊 Excel Automation
-- 🖥 Desktop Applications
-- 📈 Data Processing Solutions
-- 🌐 ASP.NET Core Web Applications
+✔ Business Process Automation
+
+✔ Data Processing
+
+✔ Custom Software Development
 
 ---
 
-# 🚀 Featured Projects
+# 👨‍💻 About Me
+
+I'm a **Python Developer** focused on building automation software that helps businesses save time and eliminate repetitive work.
+
+My background as a **Computer Science Teacher** allows me to create software that is not only technically strong but also intuitive and user-friendly.
+
+I enjoy transforming manual workflows into reliable automation tools using modern software engineering practices.
+
+---
+
+# 💼 Featured Projects
 
 ## 📊 Excel Automation Toolkit
 
-Professional desktop application built with **Python** and **PySide6**.
+Professional desktop application for Excel automation.
 
 ### Features
 
@@ -56,7 +69,7 @@ Professional desktop application built with **Python** and **PySide6**.
 - Automatic Charts
 - Export Clean Files
 
-### Technologies
+**Tech Stack**
 
 `Python`
 `PySide6`
@@ -70,28 +83,28 @@ Professional desktop application built with **Python** and **PySide6**.
 
 ## 🌐 Personal Portfolio Website
 
-Professional portfolio built with **ASP.NET Core MVC**.
+Modern portfolio & CMS built using ASP.NET Core MVC.
 
-Features:
+Features
 
 - Portfolio
+- Admin Panel
+- SEO
 - Blog
-- Contact Form
-- Admin Dashboard
-- SEO Optimization
+- Contact
 - Project Management
 
 🌐 https://halittiryaki.com
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,cs,html,css,js"/>
 
 </p>
 
@@ -147,43 +160,58 @@ SQL Server
 
 ---
 
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=halittiryakicom&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=halittiryakicom&theme=github-dark"/>
+
+</div>
+
+---
+
 # 🎯 Current Focus
 
 - 🚀 Python Automation
 - 📊 Excel Automation Toolkit
 - 🖥 Desktop Applications
 - 🌐 ASP.NET Core MVC
-- 💼 Freelance Software Development
+- 💼 Freelance Development
 
 ---
 
 # 💼 Services
 
-✔ Excel Automation
-
-✔ Desktop Application Development
-
-✔ Python Scripts
-
-✔ Data Processing
-
-✔ Business Process Automation
-
-✔ Custom Software Development
+- ⚡ Excel Automation
+- ⚡ Desktop Applications
+- ⚡ Business Automation
+- ⚡ Python Scripts
+- ⚡ Data Processing
+- ⚡ Custom Software
 
 ---
 
-# 🗺 2026 Roadmap
+# 🗺 2026 Goals
 
-- ✅ Launch Excel Automation Toolkit
-- 🔄 Grow Open Source Portfolio
-- 🔄 Become Top Rated on Upwork
-- 🔄 Build SaaS Products
-- 🔄 Publish More Desktop Applications
+- ✅ Launch Open Source Projects
+- 🚀 Become Top Rated on Upwork
+- 🚀 Publish Automation Libraries
+- 🚀 Build SaaS Products
+- 🚀 Grow Developer Community
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
 🌐 Website
 
@@ -205,8 +233,17 @@ hello@halittiryaki.com
 
 <div align="center">
 
-### ⭐ Building software that saves time.
+## ⭐ Thanks for visiting!
+
+**Building software that saves businesses time through automation.**
 
 If you like my work, don't forget to ⭐ my repositories.
 
 </div>
+
+<!--
+🐍 Snake animation will appear after GitHub Actions is configured.
+
+https://github.com/Platane/snk
+
+-->
