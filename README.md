@@ -211,25 +211,13 @@ Features
 
 https://halittiryaki.com
 
-💼 Upwork
-
-YOUR_UPWORK_PROFILE
-
-🟠 Fiverr
-
-YOUR_FIVERR_PROFILE
-
-🇹🇷 Bionluk
-
-YOUR_BIONLUK_PROFILE
-
 💻 GitHub
 
 https://github.com/halittiryakicom
 
 ✉ Email
 
-hello@halittiryaki.com
+halittiryaki1461@gmail.com
 
 ---
 
