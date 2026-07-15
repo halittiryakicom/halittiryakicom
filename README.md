@@ -9,13 +9,6 @@ Building software that saves businesses time through automation.
 [🌐 Portfolio](https://halittiryaki.com)
 &nbsp;&nbsp;•&nbsp;&nbsp;
 [💻 GitHub](https://github.com/halittiryakicom)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[💼 Upwork](YOUR_UPWORK_PROFILE)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[🟠 Fiverr](YOUR_FIVERR_PROFILE)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[🇹🇷 Bionluk](YOUR_BIONLUK_PROFILE)
-
 </p>
 
 ---
