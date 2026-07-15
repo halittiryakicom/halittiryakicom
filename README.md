@@ -151,6 +151,8 @@ Features
 
 ---
 
+GitHub Statistics
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=halittiryakicom&theme=github-dark&hide_border=true"/>
