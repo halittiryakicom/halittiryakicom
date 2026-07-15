@@ -1,30 +1,22 @@
-<div align="center">
+<p align="center">
 
 # 👋 Hi, I'm Halit Tiryaki
 
 ### Python Developer • Automation Engineer • Desktop Application Developer
 
-> **Building software that saves businesses time through automation.**
+Building software that saves businesses time through automation.
 
-<p>
-
-<a href="https://halittiryaki.com">
-<img src="https://img.shields.io/badge/Portfolio-halittiryaki.com-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01ec55433d09b8731c">
-<img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-<a href="https://github.com/halittiryakicom">
-<img src="https://img.shields.io/github/followers/halittiryakicom?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=halittiryakicom&style=for-the-badge"/>
+[🌐 Portfolio](https://halittiryaki.com)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[💻 GitHub](https://github.com/halittiryakicom)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[💼 Upwork](YOUR_UPWORK_PROFILE)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[🟠 Fiverr](YOUR_FIVERR_PROFILE)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[🇹🇷 Bionluk](YOUR_BIONLUK_PROFILE)
 
 </p>
-
-</div>
 
 ---
 
@@ -38,180 +30,192 @@
 
 ✔ Business Process Automation
 
-✔ Data Processing
+✔ Web Scraping
 
-✔ Custom Software Development
+✔ WordPress Development
+
+✔ Custom Software Solutions
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Python Developer** focused on building automation software that helps businesses save time and eliminate repetitive work.
+I'm a Python developer passionate about building automation software that eliminates repetitive work and improves productivity.
 
-My background as a **Computer Science Teacher** allows me to create software that is not only technically strong but also intuitive and user-friendly.
+I specialize in desktop applications, Excel automation, web scraping, business process automation, and custom software development.
 
-I enjoy transforming manual workflows into reliable automation tools using modern software engineering practices.
+My goal is to create reliable, user-friendly software with clean architecture and professional user experiences.
 
 ---
 
-# 💼 Featured Projects
+# 📌 Featured Projects
 
 ## 📊 Excel Automation Toolkit
 
-Professional desktop application for Excel automation.
+Modern desktop application built with **Python** and **PySide6** for Excel automation.
 
-### Features
+### Highlights
 
+- Drag & Drop Support
+- Recent Files
 - Excel Cleaning
-- Duplicate Removal
-- Empty Row Detection
 - Statistics Dashboard
-- Automatic Charts
-- Export Clean Files
+- Automatic Chart Generation
+- PDF Report Support
+- Modern Desktop UI
 
 **Tech Stack**
 
-`Python`
-`PySide6`
-`Pandas`
-`OpenPyXL`
-`Matplotlib`
+`Python` `PySide6` `Pandas` `Matplotlib` `OpenPyXL`
 
 🔗 https://github.com/halittiryakicom/excel-automation-toolkit
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 🌐 Python Web Scraper
 
-Modern portfolio & CMS built using ASP.NET Core MVC.
+Professional Python toolkit for collecting and processing website data.
+
+**Current Development**
+
+- Web Scraping
+- CSS Selectors
+- XPath Support
+- Custom User-Agent
+- Timeout Handling
+- Error Handling
+
+---
+
+## 📄 PDF Report Generator
+
+Generate professional PDF reports automatically using Python.
+
+**Planned Features**
+
+- PDF Templates
+- Charts
+- Statistics
+- Export Automation
+
+---
+
+## 🌍 Personal Portfolio Website
+
+Personal portfolio developed using **ASP.NET Core MVC**.
 
 Features
 
 - Portfolio
-- Admin Panel
-- SEO
+- Projects
 - Blog
+- SEO
 - Contact
-- Project Management
+- Responsive Design
 
-🌐 https://halittiryaki.com
+🔗 https://halittiryaki.com
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
 
-<p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+### Libraries
 
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-PySide6
+### CMS
 
-Entity Framework Core
-
-ASP.NET Core MVC
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-SQL Server
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=halittiryakicom&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halittiryakicom&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=halittiryakicom&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophy
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halittiryakicom&theme=github-dark&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=halittiryakicom&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=halittiryakicom&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=halittiryakicom&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-- 🚀 Python Automation
 - 📊 Excel Automation Toolkit
-- 🖥 Desktop Applications
-- 🌐 ASP.NET Core MVC
-- 💼 Freelance Development
+- 🌐 Python Web Scraper
+- 📄 PDF Report Generator
+- 🌍 WordPress Development
+- ⚙ Office Automation Toolkit
+- 💼 Freelance Software Development
 
 ---
 
 # 💼 Services
 
-- ⚡ Excel Automation
-- ⚡ Desktop Applications
-- ⚡ Business Automation
-- ⚡ Python Scripts
-- ⚡ Data Processing
-- ⚡ Custom Software
+- Python Automation
+- Excel Automation
+- Desktop Applications
+- Web Scraping
+- WordPress Development
+- Business Process Automation
+- Custom Software Development
 
 ---
 
-# 🗺 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ Launch Open Source Projects
-- 🚀 Become Top Rated on Upwork
-- 🚀 Publish Automation Libraries
-- 🚀 Build SaaS Products
-- 🚀 Grow Developer Community
+- 🚀 Publish Professional Open Source Projects
+- 🌟 Expand Automation Toolkit Collection
+- 💼 Get First Freelance Clients
+- 🌍 Grow Personal Portfolio
+- ⭐ Become Top Rated Freelancer
+- 📈 Grow GitHub Community
 
 ---
 
-# 📫 Connect
+# 📬 Connect
 
 🌐 Website
 
@@ -219,31 +223,32 @@ https://halittiryaki.com
 
 💼 Upwork
 
-https://www.upwork.com/freelancers/~01ec55433d09b8731c
+YOUR_UPWORK_PROFILE
+
+🟠 Fiverr
+
+YOUR_FIVERR_PROFILE
+
+🇹🇷 Bionluk
+
+YOUR_BIONLUK_PROFILE
 
 💻 GitHub
 
 https://github.com/halittiryakicom
 
-📧 Email
+✉ Email
 
 hello@halittiryaki.com
 
 ---
 
-<div align="center">
+<p align="center">
 
 ## ⭐ Thanks for visiting!
 
-**Building software that saves businesses time through automation.**
+Building software that saves businesses time through automation.
 
 If you like my work, don't forget to ⭐ my repositories.
 
-</div>
-
-<!--
-🐍 Snake animation will appear after GitHub Actions is configured.
-
-https://github.com/Platane/snk
-
--->
+</p>
