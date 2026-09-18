@@ -158,7 +158,8 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=halittiryakicom&theme=github-dark&hide_border=true"/>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </p>
 
