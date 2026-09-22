@@ -65,18 +65,25 @@ Modern desktop application built with **Python** and **PySide6** for Excel autom
 
 ---
 
-## 🌐 Python Web Scraper
+## 🌐 Web Scraper Toolkit
 
-Professional Python toolkit for collecting and processing website data.
+Modern desktop application built with **Python** and **PySide6** for extracting, processing and exporting web data.
 
-**Current Development**
+### Highlights
 
-- Web Scraping
-- CSS Selectors
-- XPath Support
-- Custom User-Agent
-- Timeout Handling
-- Error Handling
+- Single-page and Batch (Multi-URL) Scraping
+- CSS Selector and XPath Support
+- Attribute Extraction (e.g. href)
+- Export to CSV, Excel and JSON
+- Automatic Retries on Failed Requests
+- Robots.txt Awareness
+- Modern Desktop UI
+
+**Tech Stack**
+
+`Python` `PySide6` `Requests` `lxml` `Pandas`
+
+🔗 https://github.com/halittiryakicom/web-scraper-toolkit
 
 ---
 
@@ -194,8 +201,8 @@ Features
 
 # 🎯 2027 Goals
 
-- 🌐 **Python Web Scraper** — build the core scraping engine (CSS/XPath selectors, CSV export)
 - 🗂 **Office Automation Toolkit** — ship the first MVP (PDF Merge, Bulk Rename, File Organizer)
+- 🌐 **Web Scraper Toolkit** — multi-page crawling, proxy support, Selenium integration
 - 🎮 **QuizApp** — ship the live room-based exam mode
 - 📊 **Excel Automation Toolkit** — next feature release
 
