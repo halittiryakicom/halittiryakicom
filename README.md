@@ -148,7 +148,7 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=halittiryakicom&theme=github-dark&hide_border=true"/>
+<img src="streak-stats.svg" alt="GitHub Streak Stats" />
 
 </p>
 
@@ -192,14 +192,12 @@ Features
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2027 Goals
 
-- 🚀 Publish Professional Open Source Projects
-- 🌟 Expand Automation Toolkit Collection
-- 💼 Get First Freelance Clients
-- 🌍 Grow Personal Portfolio
-- ⭐ Become Top Rated Freelancer
-- 📈 Grow GitHub Community
+- 🌐 **Python Web Scraper** — build the core scraping engine (CSS/XPath selectors, CSV export)
+- 🗂 **Office Automation Toolkit** — ship the first MVP (PDF Merge, Bulk Rename, File Organizer)
+- 🎮 **QuizApp** — ship the live room-based exam mode
+- 📊 **Excel Automation Toolkit** — next feature release
 
 ---
 
