@@ -1,235 +1,145 @@
 <p align="center">
-
-# 👋 Hi, I'm Halit Tiryaki
-
-### Python Developer • Automation Engineer • Desktop Application Developer
-
-Building software that saves businesses time through automation.
-
-[🌐 Portfolio](https://halittiryaki.com)
+# 👋 Merhaba, ben Halit Tiryaki
+ 
+### Yazılım Geliştirici • İş Otomasyonu • Web ve Masaüstü Uygulamaları
+ 
+İşletmelerin Excel'le ve elle yürüttüğü süreçleri, zaman kazandıran yazılımlara dönüştürüyorum.
+ 
+[🌐 halittiryaki.com](https://halittiryaki.com)
 &nbsp;&nbsp;•&nbsp;&nbsp;
-[💻 GitHub](https://github.com/halittiryakicom)
+[✉ İletişim](https://halittiryaki.com/Contact)
+ 
 </p>
-
 ---
-
-# 🚀 Available for Freelance Projects
-
-✔ Python Automation
-
-✔ Excel Automation
-
-✔ Desktop Applications
-
-✔ Business Process Automation
-
-✔ Web Scraping
-
-✔ WordPress Development
-
-✔ Custom Software Solutions
-
+ 
+# 💼 Neler Yapıyorum
+ 
+- ⚙ **İş süreçleri otomasyonu** — tekrarlayan işleri tek tıka indiren araçlar
+- 📊 **Excel raporlama ve veri işleme** — dağınık tablolardan düzenli raporlar
+- 🖥 **Masaüstü uygulamalar** — işletmeye özel program ve paneller
+- 🌍 **Kurumsal web siteleri ve yönetim panelleri** — ASP.NET Core ile
+- 🔎 **Web'den veri toplama** — ürün, fiyat ve liste verilerinin düzenli çekilmesi
+- 🧩 **WordPress siteleri**
 ---
-
-# 👨‍💻 About Me
-
-I'm a Python developer passionate about building automation software that eliminates repetitive work and improves productivity.
-
-I specialize in desktop applications, Excel automation, web scraping, business process automation, and custom software development.
-
-My goal is to create reliable, user-friendly software with clean architecture and professional user experiences.
-
----
-
-# 📌 Featured Projects
-
-## 📊 Excel Automation Toolkit
-
-Modern desktop application built with **Python** and **PySide6** for Excel automation.
-
-### Highlights
-
-- Drag & Drop Support
-- Recent Files
-- Excel Cleaning
-- Statistics Dashboard
-- Automatic Chart Generation
-- PDF Report Support
-- Modern Desktop UI
-
-**Tech Stack**
-
-`Python` `PySide6` `Pandas` `Matplotlib` `OpenPyXL`
-
-🔗 https://github.com/halittiryakicom/excel-automation-toolkit
-
----
-
-## 🌐 Web Scraper Toolkit
-
-Modern desktop application built with **Python** and **PySide6** for extracting, processing and exporting web data.
-
-### Highlights
-
-- Single-page and Batch (Multi-URL) Scraping
-- CSS Selector and XPath Support
-- Attribute Extraction (e.g. href)
-- Export to CSV, Excel and JSON
-- Automatic Retries on Failed Requests
-- Robots.txt Awareness
-- Modern Desktop UI
-
-**Tech Stack**
-
-`Python` `PySide6` `Requests` `lxml` `Pandas`
-
-🔗 https://github.com/halittiryakicom/web-scraper-toolkit
-
----
-
-## 📄 PDF Report Generator
-
-Generate professional PDF reports automatically using Python.
-
-**Planned Features**
-
-- PDF Templates
-- Charts
-- Statistics
-- Export Automation
-
----
-
-## 🌍 Personal Portfolio Website
-
-Personal portfolio developed using **ASP.NET Core MVC**.
-
-Features
-
-- Portfolio
-- Projects
-- Blog
-- SEO
-- Contact
-- Responsive Design
-
+ 
+# 📌 Öne Çıkan Projeler
+ 
+## 🌍 halittiryaki.com — Kişisel Portfolyo Sitesi
+ 
+**ASP.NET Core 8 MVC** ile geliştirilen, yönetim paneli üzerinden içerik yönetilebilen site.
+ 
+- Proje galerisi (WebP'ye otomatik dönüştürme)
+- Yönetim paneli: projeler, site ayarları, favicon
+- SEO: sitemap, sayfa başlıkları, açıklamalar
+- KVKK aydınlatma metni ve iletişim formu
+`C#` `ASP.NET Core 8` `Entity Framework Core` `SQLite`
+ 
 🔗 https://halittiryaki.com
-
+ 
 ---
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
+## 🦺 UZPA İş Güvenlik — Müşteri Projesi
+ 
+Bursa'daki bir iş güvenliği firması için B2B ürün kataloğu ve teklif sitesi.
+ 
+- 1.600+ önceden oluşturulmuş (prerender) sayfa
+- Teklif sepeti + WhatsApp ile teklif gönderme
+- Hızlı açılış için optimize edilmiş logo ve yazı tipleri
+`React` `Vite` `Tailwind CSS`
+ 
+🔗 https://uzpaisguvenlik.com
+ 
+---
+ 
+## 📊 Excel Automation Toolkit
+ 
+Excel dosyalarını temizleyen, istatistik çıkaran ve grafik üreten masaüstü uygulaması.
+ 
+- Sürükle-bırak, son açılan dosyalar
+- Excel temizleme ve istatistik paneli
+- Otomatik grafik ve PDF rapor
+`Python` `PySide6` `Pandas` `Matplotlib` `OpenPyXL`
+ 
+🔗 https://github.com/halittiryakicom/excel-automation-toolkit
+ 
+---
+ 
+## 🔎 Web Scraper Toolkit
+ 
+Web sayfalarından veri çeken, işleyen ve dışa aktaran masaüstü uygulaması.
+ 
+- Tek sayfa ve çoklu URL ile toplu çekme
+- CSS seçici ve XPath desteği
+- CSV, Excel ve JSON'a aktarım
+- Hatalı isteklerde otomatik tekrar, robots.txt kontrolü
+`Python` `PySide6` `Requests` `lxml` `Pandas`
+ 
+🔗 https://github.com/halittiryakicom/web-scraper-toolkit
+ 
+---
+ 
+## 📋 İş Takip — Görev Yönetim Paneli
+ 
+Görevleri, kategorileri ve sorumluları tek ekrandan yöneten web uygulaması.
+ 
+- Kart görünümü, öncelik ve durum takibi
+- İlerleme notları, kategori ve kişi yönetimi
+- Özet sayılar: açık, tamamlanan, geciken işler
+`Python` `Django` `Vue 3` `SQLite` `Docker`
+ 
+🔗 https://github.com/halittiryakicom/task_tracking
+ 
+---
+ 
+# 🎯 Şu An Odaklandıklarım
+ 
+- 🔄 **.NET'e geçiş** — projelerimi C# / ASP.NET Core tarafında toplamak (plan aşamasında)
+- 🤝 **Müşteri projeleri** — KOBİ'ler için otomasyon, web sitesi ve yönetim paneli
+- ⚙ **Office Automation Toolkit** — fikir aşamasında (PDF birleştirme, toplu yeniden adlandırma, dosya düzenleme)
+---
+ 
+# 🛠 Teknolojiler
+ 
+### Diller
+ 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+ 
+### Çatılar ve Kütüphaneler
+ 
+![.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-### Libraries
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### CMS
-
+ 
+### Veritabanı ve CMS
+ 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Tools
-
+ 
+### Araçlar
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ 
 ---
-
-# 📈 GitHub Statistics
-
+ 
+# 📬 İletişim
+ 
+🌐 https://halittiryaki.com
+ 
+✉ halittiryaki1461@gmail.com
+ 
+---
+ 
 <p align="center">
-
-<img src="streak-stats.svg" alt="GitHub Streak Stats" />
-
+İşinizde elle yapılan, tekrar eden bir süreç varsa konuşalım.
+ 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 📊 Excel Automation Toolkit
-- 🌐 Python Web Scraper
-- 📄 PDF Report Generator
-- 🌍 WordPress Development
-- ⚙ Office Automation Toolkit
-- 💼 Freelance Software Development
-
----
-
-# 💼 Services
-
-- Python Automation
-- Excel Automation
-- Desktop Applications
-- Web Scraping
-- WordPress Development
-- Business Process Automation
-- Custom Software Development
-
----
-
-# 🎯 2027 Goals
-
-- 🗂 **Office Automation Toolkit** — ship the first MVP (PDF Merge, Bulk Rename, File Organizer)
-- 🌐 **Web Scraper Toolkit** — multi-page crawling, proxy support, Selenium integration
-- 🎮 **QuizApp** — ship the live room-based exam mode
-- 📊 **Excel Automation Toolkit** — next feature release
-
----
-
-# 📬 Connect
-
-🌐 Website
-
-https://halittiryaki.com
-
-💻 GitHub
-
-https://github.com/halittiryakicom
-
-✉ Email
-
-halittiryaki1461@gmail.com
-
----
-
-<p align="center">
-
-## ⭐ Thanks for visiting!
-
-Building software that saves businesses time through automation.
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</p>
+ 
